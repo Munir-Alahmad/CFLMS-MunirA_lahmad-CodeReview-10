@@ -1,0 +1,48 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: rgb(66, 180, 136);
+}
+
+.row {
+    margin: auto;
+    padding-top: 100px;
+}
+
+.card {
+    margin: 15px;
+    padding-left: 0px;
+    padding-right: 0px;
+    background-color: rgba(175, 238, 238, 0.63);
+}
+
+.newbook {
+    padding-right: 15px;
+}
+
+.navbar {
+    position: relative;
+}
+
+.fixnav {
+    position: fixed;
+}
+
+.navbar-brand {
+    font-size: 25px;
+    padding-right: 250px;
+}
+
+.navbar {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    font-family: 'Exo 2', sans-serif;
+    padding: 1em;
+    display: flex;
+    z-index: 100000;
+}
