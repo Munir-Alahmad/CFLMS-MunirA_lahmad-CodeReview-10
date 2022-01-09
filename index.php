@@ -61,8 +61,7 @@
                 </li>
             </ul>
             <div class="newbook">
-            <a href='publish.php?Publisher={$row["Publisher"]}' class='btn btn-primary'>Cornelson</a>
-                <!-- <a class= "btn btn-primary" href="publish.php">Cornelson</a> -->
+            <a href='publish.php?Publisher={$row["Publisher"]}' class='btn btn-primary'>Publisher</a>
                 <a class= "btn btn-primary" href="create.php">Create a new Book</a>
             </div>
             

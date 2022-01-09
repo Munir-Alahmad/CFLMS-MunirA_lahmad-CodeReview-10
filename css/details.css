@@ -1,0 +1,38 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: rgb(66, 180, 136);
+}
+
+fieldset {
+    margin: auto;
+    margin-top: 20px;
+    width: 50%;
+    padding: 25px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    background-color: #86D8C8;
+}
+
+.btn {
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+a {
+    margin-left: 180px;
+}
+
+.foto {
+    padding-top: 30px;
+    padding-right: 100px;
+}
+
+.prodet {
+    /* margin: 5px 15px 15px 150px; */
+    display: flex;
+    justify-content: center;
+}
